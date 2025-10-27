@@ -20,7 +20,8 @@
 ---
 ## Демонстрация проекта.
 ![](https://github.com/urvexia/EcoTrace/blob/main/eco_trace.gif)
----
+
+
 - Основы создания сайтов
 - HTML + CSS
 - Flask-шаблоны
