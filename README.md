@@ -35,8 +35,11 @@
 1. Клонируйте репозиторий (скачайте ZIP-архив) и откройте его папку в терминале VS Code.
 ![alt tag](https://github.com/urvexia/EcoTrace/blob/main/scrinshots/saving.png)
 ![alt tag](https://github.com/urvexia/EcoTrace/blob/main/scrinshots/opening%20folder.png)
-3. Установите библиотеку Flask и запустите сервер.
-4. Откройте в браузере адрес http://127.0.0.1:5000/.
+3. Установите библиотеку Flask, Jinja2 - pip install Flask; pip install Jinja2.
+![alt tag](https://github.com/urvexia/EcoTrace/blob/main/scrinshots/terminal.png)
+![alt tag](https://github.com/urvexia/EcoTrace/blob/main/scrinshots/flask.png)
+![alt tag](https://github.com/urvexia/EcoTrace/blob/main/scrinshots/jinja2.png)
+5. Откройте в браузере адрес http://127.0.0.1:5000/.
 
 ---
 ## Обратная связь.
