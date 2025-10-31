@@ -33,8 +33,10 @@
 ## Инструкции по установке и использованию.
 Для запуска проекта вам потребуется Python 3 и библиотека Flask.
 1. Клонируйте репозиторий (скачайте ZIP-архив) и откройте его папку в терминале VS Code.
-2. Установите библиотеку Flask и запустите сервер.
-3. Откройте в браузере адрес http://127.0.0.1:5000/.
+![alt tag](https://github.com/urvexia/EcoTrace/blob/main/scrinshots/saving.png)
+![alt tag](https://github.com/urvexia/EcoTrace/blob/main/scrinshots/opening%20folder.png)
+3. Установите библиотеку Flask и запустите сервер.
+4. Откройте в браузере адрес http://127.0.0.1:5000/.
 
 ---
 ## Обратная связь.
